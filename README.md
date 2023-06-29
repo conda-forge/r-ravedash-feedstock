@@ -1,11 +1,11 @@
-About r-ravedash
-================
+About r-ravedash-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ravedash-feedstock/blob/main/LICENSE.txt)
 
 Home: https://dipterix.org/ravedash/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ravedash-feedstock/blob/main/LICENSE.txt)
 
 Summary: Dashboard system to display the analysis results produced by 'RAVE' (Magnotti J.F.,
 Wang Z., Beauchamp M.S. (2020), R analysis and visualizations of 'iEEG' <doi:10.1016/j.neuroimage.2020.117341>).
