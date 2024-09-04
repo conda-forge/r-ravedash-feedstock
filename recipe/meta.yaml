@@ -1,6 +1,5 @@
 {% set version = '0.1.2' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-ravedash
@@ -13,8 +12,7 @@ source:
   sha256: 5f79ec24df5560adeadf04a60d01d4edcb2fd3b0c6e8c3e37d68eac59a789ac2
 
 build:
-  merge_build_host: True  # [win]
-  number: 1
+  number: 2
   noarch: generic
   rpaths:
     - lib/R/lib/
